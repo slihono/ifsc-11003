@@ -25,8 +25,8 @@ body {
 }
 #navy {
   background-color: #001f3f;
-  width: 370px;
-  height: 150px;
+  width:175px;
+  height: 175px;
   float:left;
   margin-top: 20px;
   margin-left: 20px;
@@ -35,33 +35,35 @@ body {
 }
 #teal {
   background-color: #39cccc;
-  width: 370px;
-  height: 150px;
-  float:right;
+  width: 175px;
+  height: 175px;
+  float:left;
   margin-top: 20px;
-  margin-right: 20px;
+  margin-left: 20px;
   margin-bottom: 20px;
   
  
 }
 #blue {
   background-color: #0074d9;
-  width: 370px;
-  height: 150px;
+  width: 175px;
+  height: 175px;
   float: left;
-  
-  margin-top: 10px;
+  margin-top: 20px;
   margin-left: 20px;
   margin-bottom: 20px;
+  
+ 
 }
 #aqua {
   background-color: #7fdbff;
-  width: 370px;
-  height: 150px;
-  float: right;
-  margin-right: 20px;
-  margin-top: 10px;
+  width: 175px;
+  height: 175px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
   margin-bottom: 20px;
+  
 }
 #footer {
   background-color: #666;
