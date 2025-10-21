@@ -18,55 +18,59 @@ body {
 #wrapper {
   background-color: #fff;
   border: 1px solid #c0c0c0;
-  width: 100px;
+  width: 400px;
   margin-right: auto;
   margin-left: auto;
   text-shadow: 2px 2px #000;
 }
 #navy {
   background-color: #001f3f;
-  width:87.5px;
-  height: 87.5px;
-  top:0px;
-  left: 0;
-  
+  width:175px;
+  height: 175px;
+  float:left;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
   
 }
 #teal {
   background-color: #39cccc;
-  width: 87.5px;
-  height: 87.5px;
- top: 0;
- left: 0;
+  width: 175px;
+  height: 175px;
+  float:left;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  
+ 
 }
 #blue {
   background-color: #0074d9;
-  width: 87.5px;
-  height: 87.5px;
-  bottom: 0;
-  left:0;
-  
-  
+  width: 175px;
+  height: 175px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
   
  
 }
 #aqua {
-  background-color:  #7fdbff;
-  width: 87.5px;
-  height: 87.5px;
- bottom: 0;
- right: 0;
- 
+  background-color: #7fdbff;
+  width: 175px;
+  height: 175px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   
 }
 #footer {
   background-color: #666;
-   width: 87.5px;
-  height: 87.5px;
- text-align: center;
-top: 50%;
-right:50%
- 
+  clear: both;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 h1 {
   color: #000;
