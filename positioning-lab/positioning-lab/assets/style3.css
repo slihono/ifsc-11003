@@ -23,13 +23,14 @@ body {
   margin-right: auto;
   margin-left: auto;
   text-shadow: 2px 2px #000;
+  position: relative;
 }
 #navy {
   background-color: #001f3f;
   width:87.5px;
   height: 87.5px;
-  top: auto;
-  border-left: 0;
+  top: 0;
+  left: 0;
   position: absolute;
   
 }
@@ -37,10 +38,9 @@ body {
   background-color: #39cccc;
   width: 87.5px;
   height: 87.5px;
-  top: 0;
-  right: 0;
-  position: absolute;
-  
+ top: 0;
+ right: 0;
+ position: absolute;
 }
 #blue {
   background-color: #0074d9;
