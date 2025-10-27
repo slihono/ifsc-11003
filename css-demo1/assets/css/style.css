@@ -121,7 +121,12 @@ header.primary nav a:hover{
   position:solid;
   right:10px;
   top:10px;
-  background:rgb(35, 67, 84);
+  background:rgb(59, 105, 129)#BDDEF0;
+}
+section{
+  padding-left: 20px;
+  padding-right: 20px;
+  
 }
 
 
